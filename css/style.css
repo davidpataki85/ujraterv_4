@@ -1,0 +1,10 @@
+h1, 
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: rgb(212, 37, 37);
+}
+
+thead {
+  font-family: 'Lobster', cursive;
+  color: rgb(41, 223, 41);
+}
